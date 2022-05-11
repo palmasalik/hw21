@@ -1,0 +1,548 @@
+@media (max-width:1399px) {
+    .container {
+        max-width: 1199px;
+    }
+
+    .awsa {
+        margin-left: 181px;
+    }
+
+    .naruto {
+        left: 3%;
+        background: #3D3D3D;
+    }
+
+    input {
+        padding: 17px 364px 17px 30px;
+    }
+
+    .blokatri {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .insi {
+        width: 520px;
+    }
+
+}
+
+@media (max-width:1199px) {
+    .container {
+        max-width: 991px;
+    }
+
+    .right {
+        margin: 0;
+    }
+
+    .imo1 {
+        top: 52px;
+    }
+
+    .imo2 {
+        max-width: 935px;
+    }
+
+    .para2 {
+        max-width: 397px;
+    }
+
+    .para3 {
+        max-width: 382px;
+    }
+
+    .ssi {
+        padding: 18px 50px 18px 50px;
+    }
+
+    .let {
+        left: 48.5%;
+        height: 421px;
+        padding: 39px;
+        max-width: 481px;
+    }
+
+    .imo3 {
+        left: 50.7%;
+    }
+
+    .outsi {
+        max-width: 368px;
+    }
+
+    .ala::after {
+        margin-left: 30px;
+    }
+
+    .awsa {
+        margin-left: 30px;
+    }
+
+    input {
+        padding: 17px 245px 17px 30px;
+    }
+}
+
+@media (max-width:991px) {
+    .container {
+        width: 768px;
+    }
+
+    .naruto {
+        width: 100%;
+        left: 0;
+        background: #3D3D3D;
+    }
+
+    .gara {
+        left: 2.5%;
+        padding: 68px 42px;
+        width: 95%;
+    }
+
+    .justify-content-between {
+        justify-content: space-between !important;
+        flex-wrap: wrap;
+    }
+
+    .kosagk:nth-of-type(-n+3) {
+        margin-bottom: 20px;
+    }
+
+    .kosagk:nth-of-type(4)::after {
+        content: none;
+    }
+
+    .inoshi {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .ala::after {
+        margin-left: 31px;
+    }
+
+    .ala::after {
+        content: none;
+    }
+
+    .popaa {
+        width: 26%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .lola {
+        margin-left: 0;
+    }
+
+    .asdfgg {
+        display: block;
+    }
+
+    .imo3 {
+        display: none;
+    }
+
+    .imo2 {
+        width: 100%;
+        left: 0;
+        top: 12%;
+    }
+
+    .imo1 {
+        left: 0;
+        top: 12%;
+    }
+
+    .poasthree {
+        left: 0;
+        width: max-content;
+    }
+
+    .let {
+        left: 36.5%;
+        height: auto;
+        padding: 20px;
+        max-width: 440px;
+        top: 46%;
+    }
+
+    .para2 {
+        margin-bottom: 0;
+    }
+
+    .blokimach {
+        width: auto;
+    }
+}
+
+@media (max-width:767px) {
+    .container {
+        width: 576px;
+    }
+
+    .lishka {
+        margin-right: 24px;
+    }
+
+    .header {
+        position: static;
+        background: #141414;
+        height: 991px;
+    }
+
+    .imo1,
+    .imo2,
+    .poasthree,
+    .let {
+        position: static;
+    }
+
+    .imo1 {
+        width: 35%;
+    }
+
+    .let {
+        padding-bottom: 50px;
+    }
+
+    .geqq {
+        font-size: 40px;
+        line-height: 47px;
+    }
+
+    .seca04 {
+        margin-top: 30px;
+        margin-bottom: 55px;
+    }
+
+
+    .blokimach {
+        width: 327px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 70px;
+    }
+
+    .gela {
+        margin: 0px auto 55px;
+    }
+
+    .kosagk,
+    .kosagka {
+        display: block;
+        margin-top: 68px;
+        margin-bottom: 172px;
+    }
+
+    .naruto {
+        top: 50%;
+    }
+
+    .posia,
+    .gara,
+    .naruto {
+        position: static;
+    }
+
+    .aacvv {
+        padding: 0;
+    }
+
+    .aacvv {
+        order: 3;
+        margin: 10px 0 0 0;
+    }
+
+    .eew {
+        order: 4;
+    }
+
+    .aae {
+        display: block;
+    }
+
+    input {
+        padding: 14px 190px 14px 30px;
+    }
+
+    .swwq {
+        display: flex;
+        margin: 0 auto;
+        padding: 4px 25px;
+    }
+
+    .awsa {
+        padding: 0;
+        margin: 0;
+    }
+
+    .naruto {
+        padding: 68px 13px 30px 13px;
+    }
+
+    .footer {
+        background: #141414;
+        padding-top: 59px;
+    }
+
+    .kosagk,
+    .kosagka {
+        height: 60px;
+        margin-bottom: 0;
+    }
+
+    .nrtd {
+        margin-bottom: 16px;
+    }
+}
+
+@media (max-width:575px) {
+    .lishka {
+        margin-right: 12px;
+        font-size: 10px;
+    }
+
+    .gerqf {
+        margin-bottom: 0;
+    }
+
+    .qwerty {
+        margin-right: 24px;
+        font-size: 10px;
+    }
+
+    .para2 {
+        max-width: 285px;
+        font-size: 46px;
+        margin-bottom: 5px;
+        line-height: 46px;
+    }
+
+    .header {
+        height: 940px;
+    }
+
+    .para002 {
+        font-size: 47px;
+        line-height: 48px;
+        ;
+        max-width: 436px;
+    }
+
+    .para003 {
+        max-width: 384px;
+    }
+
+    .popaa {
+        width: 34%;
+    }
+
+    .gela {
+        padding: 20px 83px 20px 116px;
+
+    }
+
+    .obma {
+        justify-content: space-around !important;
+    }
+
+    .kosagk,
+    .kosagka {
+        display: block;
+        margin-top: 23px;
+    }
+
+    .insi {
+        width: auto;
+    }
+
+    input {
+        padding: 14px 120px 14px 30px;
+        display: flex;
+        margin: 0 auto !important;
+    }
+
+    .gara {
+        width: 100%;
+    }
+
+    .blokatri {
+        padding-bottom: 20px;
+    }
+
+    .geqq {
+        font-size: 35px;
+        line-height: 40px;
+    }
+}
+
+@media (max-width:469px) {
+
+    .gerqf,
+    .awsa {
+        margin-bottom: 0;
+        flex-wrap: wrap;
+    }
+
+    .lishka {
+        margin-right: 16px;
+        font-size: 12px;
+    }
+
+    .qwerty {
+        margin-right: 19px;
+        font-size: 10px;
+    }
+
+    .para1 {
+        width: max-content;
+    }
+
+    .para3 {
+        max-width: 281px;
+    }
+
+    .let {
+        max-width: 385px;
+    }
+
+    .ssi {
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    .homa {
+        max-width: 400px;
+    }
+
+    .gela {
+        width: auto;
+    }
+
+    .poasthree {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .asdfgg {
+        padding-top: 50px;
+    }
+
+    .header {
+        height: auto;
+    }
+
+    .ara2 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width:399px) {
+
+
+    .poasthree {
+        display: flex;
+        flex-wrap: wrap;
+        width: 286px;
+    }
+
+    .posazero {
+        height: 32px;
+    }
+
+    .let {
+        max-width: 300px;
+    }
+
+    .para2 {
+        max-width: 191px;
+        font-size: 32px;
+        margin-bottom: 5px;
+        line-height: 38px;
+    }
+
+    .para002 {
+        font-size: 32px;
+        line-height: 35px;
+        max-width: 436px;
+    }
+
+    .ala, .alaa {
+        font-size: 33px;
+    }
+
+    .gerqf,
+    .right {
+        padding: 0;
+    }
+
+    .asdfgg {
+        padding-bottom: 15px;
+    }
+
+    .homa {
+        max-width: 317px;
+    }
+
+    .ara2 {
+        font-size: 13px;
+        padding: 15px 92px 10px;
+    }
+
+    .ara1 {
+        padding: 0 30px 47px;
+    }
+
+    .inoshi {
+        padding-bottom: 59px;
+    }
+
+    .geqq {
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .blokimach:nth-of-type(-n+3) {
+        margin-bottom: 30px;
+    }
+
+    .blokimach {
+        margin-bottom: 30px;
+    }
+
+    .gela {
+        padding: 20px 57px 20px 66px;
+    }
+
+    .opa {
+        width: 100px;
+    }
+
+    .obma {
+        display: block !important;
+    }
+
+    .eew {
+        margin-right: 18px;
+    }
+
+    input {
+        padding: 14px 0px 14px 30px;
+        display: flex;
+        margin: 0 auto !important;
+    }
+    .swwq {
+        display: flex;
+        margin: 0 auto;
+        padding: 0px 15px;
+        font-size: 9px;
+    }
+}
